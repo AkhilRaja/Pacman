@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TrippyBubble\Assets\Scripts\Modeswitch.js">
+    <Files>
+      <File FileName="..\TrippyBubble\Assets\Scripts\MainScript.js" Line="307" Column="4" />
+      <File FileName="..\TrippyBubble\Assets\Scripts\Modeswitch.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
